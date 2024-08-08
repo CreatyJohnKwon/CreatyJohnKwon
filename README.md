@@ -47,13 +47,15 @@
 
 <br />
 
-## Top Repositories
+[![BOJ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=CreatyJohn)](https://solved.ac/CreatyJohn)
+
+<!--## Top Repositories
 
 <a href="https://github.com/CreatyJohnKwon/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CreatyJohnKwon&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/CreatyJohnKwon/CreatyJohnKwon.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CreatyJohnKwon&repo=CreatyJohnKwon.github.io&theme=buefy" />
-</a>
+</a>-->
 
 ###### Open Sourced by [Anurag](https://anuraghazra.github.io)
