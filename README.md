@@ -3,7 +3,7 @@
 
 ## **About Me**
 
-### 창의를 추구하고 헌신하는 개발자 **Junwoo Kwon** 입니다
+### 유연한 개발을 지향하는 **Junwoo Kwon** 입니다
 
 💼 **AOS & FE Engineer at [CashMap Corp.](http://cashmap.kr/) | 2023.08 ~ NOW()**
 
