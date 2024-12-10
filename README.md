@@ -56,6 +56,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CreatyJohnKwon&repo=CreatyJohnKwon.github.io&theme=buefy" />
 </a>-->
 
-[![BOJ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=CreatyJohn)](https://solved.ac/CreatyJohn)
+<!-- [![BOJ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=CreatyJohn)](https://solved.ac/CreatyJohn) -->
 
 ###### Open Sourced by [Anurag](https://anuraghazra.github.io)
