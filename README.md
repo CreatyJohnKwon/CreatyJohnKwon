@@ -1,11 +1,9 @@
 
 <br />
 
-## **About Me**
+### 창의적 개발을 목표로 하는 **Junwoo Kwon** 입니다
 
-### 유연한 개발을 지향하는 **Junwoo Kwon** 입니다
-
-💼 **AOS & FE Engineer at [CashMap Corp.](http://cashmap.kr/) | 2023.08 ~ NOW()**
+💼 **AOS & FE Engineer at [CashMap Corp.](http://cashmap.kr/) | 2023.08 ~ 2024.12**
 
 ##### Main Job
 > **System Management & Functional Advancement** for **Mobile(AOS/Java | iOS/Objective-C)** & **Web(JS/Java/MVC)**
@@ -14,7 +12,7 @@
 
 <br />
 
-## **Pages**
+## **블로그**
 
 <img src="https://velog.velcdn.com/images/creatyjohn/post/719ba2e8-40dc-4da9-8843-324dbeb37515/image.png" height="20" width="20" align="center" alt="Velogs"> **[CreatyJohn의 개발 블로그](https://velog.io/@creatyjohn/posts)**
 
