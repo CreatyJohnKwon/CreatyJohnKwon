@@ -6,9 +6,9 @@
 💼 **AOS & FE Engineer at [CashMap Corp.](http://cashmap.kr/) | 2023.08 ~ 2024.12**
 
 ##### Main Job
-> **System Management & Functional Advancement** for **Mobile(AOS/Java | iOS/Objective-C)** & **Web(JS/Java/MVC)**
+> Developed Chatting program with **React-socket.io** platform & Servicing
 
-> Develop Chatting program with **React-socket.io** platform & Servicing
+> **System Management & Functional Advancement** for **Mobile(AOS/Java | iOS/Objective-C)** & **Web(JS/Java/MVC)**
 
 <br />
 
