@@ -16,11 +16,7 @@
 
 ## **Pages**
 
-<img src="https://velog.velcdn.com/images/creatyjohn/post/8af69f93-a24e-43bc-a999-d761ed02e54a/image.png" height="20" width="20" align="center" alt="Notion"> **[준우준우의 미니멀리즘 포트폴리오](https://thinkable-cyclone-fb1.notion.site/c6ba570c27d04595b76366a688e6b3ad)**
-
-<img src="https://velog.velcdn.com/images/creatyjohn/post/719ba2e8-40dc-4da9-8843-324dbeb37515/image.png" height="20" width="20" align="center" alt="Velogs"> **[Creaty 한 창의를 추구하는 개발자](https://velog.io/@creatyjohn/posts)**
-
-<img src="https://velog.velcdn.com/images/creatyjohn/post/3c30e6e1-33a4-4091-9f3c-d3b12edf8ff7/image.png" height="20" width="20" align="center" alt="GitHub"> **[if (Na == "기록자") return "나는야 기록자"](https://github.com/CreatyJohnKwon)**
+<img src="https://velog.velcdn.com/images/creatyjohn/post/719ba2e8-40dc-4da9-8843-324dbeb37515/image.png" height="20" width="20" align="center" alt="Velogs"> **[CreatyJohn의 개발 블로그](https://velog.io/@creatyjohn/posts)**
 
 <br />
 
