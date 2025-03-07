@@ -37,6 +37,10 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatyJohnKwon&layout=compact&theme=buefy&hide_border=true" /></a>
 
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_blue.svg" />
+</a>
+
 <br />
 
 <!--## Top Repositories
