@@ -3,7 +3,7 @@
 
 ### 창의적 개발을 목표로 하는 **Junwoo Kwon** 입니다
 
-💼 **AOS & FE Engineer at [CashMap Corp.](http://cashmap.kr/) | 2023.08 ~ 2024.12**
+💼 **FE Engineer at [CashMap Corp.](http://cashmap.kr/) | 2023.08 ~ 2024.12**
 
 ##### Main Job
 > Developed Chatting program with **React-socket.io** platform & Servicing
