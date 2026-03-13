@@ -1,6 +1,6 @@
 <div align="start">
 
-# 적응형 개발자 권준우입니다.
+# 권준우
 
 💼 **Multiple Engineer at [Visionnet Corp.](https://www.vnjp.co.jp/)) | 2025.12 ~ 現在**
 > JAVA SPRING / JS
@@ -60,7 +60,7 @@
 <details>
 <summary>🇬🇧 English</summary>
 
-### I'm Junwoo Kwon, an adaptable developer.
+# Junwoo Kwon
 
 📜 **Full Stack at [La farfalla Corp.](http://lafarfalla.kr) | 2025.05 ~ 2025.10**
 > Developed an e-commerce platform for Lafarfalla, Inc. on a contract basis.
