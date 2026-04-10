@@ -111,15 +111,4 @@
 ![Nginx](https://img.shields.io/badge/Nginx-171717?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-171717?style=flat-square&logo=cloudflare&logoColor=white)
 
-<br />
-
----
-
-## [ METRICS ]
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CreatyJohnKwon&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=171717&text_color=525252&icon_color=171717" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatyJohnKwon&layout=compact&theme=transparent&hide_border=true&title_color=171717&text_color=525252" alt="Top Languages" />
-</div>
-
 </div>
