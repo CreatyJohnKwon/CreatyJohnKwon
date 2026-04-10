@@ -3,7 +3,14 @@
 # 권준우
 
 💼 **Multiple Engineer at [Visionnet Corp.](https://www.vnjp.co.jp/)) | 2025.12 ~ 現在**
-> JAVA SPRING / JS
+
+[First PJ in JAPAN with HITACHI/AID/TOKYO]
+
+> Language | JAVA, JSP, JS, C++
+
+> Platform | HAFJ
+
+> TDD | Junit (Unit Test)
 
 📜 **Full Stack at [La farfalla Corp.](https://lafarfalla.kr) | 2025.05 ~ 2025.10**
 > 외주 계약으로 Lafarfalla의 이커머스 플랫폼을 개발했습니다.
